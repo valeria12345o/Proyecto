@@ -1,0 +1,12 @@
+@charset "utf-8";
+body {
+    background-color: #E0C29D;
+}
+table {
+    text-align: center;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #F1E2D4;
+    color: #432913;
+}
